@@ -1,6 +1,6 @@
 # Ignite: React Native - Desafio
 
-Desafio para a trilha React native do Ignite, da Rocketseat. [Capítulo 01 / Desafio 01]
+Desafio para a trilha React Native do Ignite, da Rocketseat. [Capítulo 01 / Desafio 01]
 
 ## Conceitos do React Native
 
